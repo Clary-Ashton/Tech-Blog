@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+    background-color: #EFE9F4;
+    font-family: 'Roboto Mono', monospace;
+}
+
+a {
+    text-decoration: none;
+    color: #0670B1;
+}
+
+header {
+    height: 130px;
+    background-color: #171D1C;
+    color: #EFE9F4;
+}
+
+header a, header .btn, .card a {
+    color: #5FBFF9;
+    text-decoration: none;
+}
+
+header a, header .btn {
+    font-size: 1.3rem;
+}
+
+header a:hover, header .btn:hover, .card a:hover {
+    color: #EFE9F4;
+    text-decoration: none;
+}
+
+.card-header {
+    background-color: #171D1C;
+}
