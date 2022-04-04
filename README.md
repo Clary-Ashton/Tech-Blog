@@ -6,7 +6,7 @@ A blog App built using the MVC framework, where developers can publish their blo
 
 ## Deployed Links
 
-https://clary-ashton.github.io/Tech-Blog/
+[link](https://clary-ashton.github.io/Tech-Blog/)
 
 ## Technologies used
 
