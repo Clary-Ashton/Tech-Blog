@@ -23,7 +23,11 @@ Model-View-Controller
 
 ## Licence
 
+This Portfolio is licensed under the [MIT License](./LICENSE)
+
 ## Created by:
+
+Clary Mawangi
 
 
 
